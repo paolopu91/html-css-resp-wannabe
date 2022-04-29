@@ -2,4 +2,7 @@
     header {
         color: black;
     }
+    .container{
+        width: 100%;
+    }
 }
